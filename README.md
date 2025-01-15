@@ -69,7 +69,7 @@ handwritten_digits_gan/
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/handwritten_digits_gan.git
+   git clone https://github.com/helithaK/handwritten_digits_gan.git
    cd handwritten_digits_gan
    ```
 2. Install dependencies:
